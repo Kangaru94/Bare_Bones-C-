@@ -23,7 +23,7 @@ namespace HelloWorld
                 Console.WriteLine("No");
                 Console.WriteLine("Is not Stephen");
             }
-
+ 
             while (counter <= 10)
             {
                 Console.WriteLine(counter);
